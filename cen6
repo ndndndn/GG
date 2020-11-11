@@ -194,8 +194,7 @@ chkconfig fail2ban on
 
 # install squid
 yum -y install squid
-wget -O /etc/squid/squid.conf "https://raw.gi
-ercontent.com/ndndndn/GG/main/squid-centos.conf"
+wget -O /etc/squid/squid.conf "https://raw.githubusercontent.com/ndndndn/GG/main/squid-centos.conf"
 service squid restart
 service squid stop
 sed -i $MYIP2 /etc/squid/squid.conf;
