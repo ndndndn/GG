@@ -5,7 +5,7 @@
 # Nickname: ARA
 # Modify : @aramaiti85 
 # Date: 11-05-2016
-# Last Updated: 20-01-2019
+# Lasts Updated: 20-01-2019
 # ******************************************
 # START SCRIPT ( RANGERSVPN )
 
